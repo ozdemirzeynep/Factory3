@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Factory3\Factory3\bin\Debug\netcoreapp2.2\Factory3.deps.json
+C:\Users\Administrator\source\repos\Factory3\Factory3\bin\Debug\netcoreapp2.2\Factory3.runtimeconfig.json
+C:\Users\Administrator\source\repos\Factory3\Factory3\bin\Debug\netcoreapp2.2\Factory3.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Factory3\Factory3\bin\Debug\netcoreapp2.2\Factory3.dll
+C:\Users\Administrator\source\repos\Factory3\Factory3\obj\Debug\netcoreapp2.2\Factory3.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Factory3\Factory3\obj\Debug\netcoreapp2.2\Factory3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Factory3\Factory3\obj\Debug\netcoreapp2.2\Factory3.RazorAssemblyInfo.cache
+C:\Users\Administrator\source\repos\Factory3\Factory3\obj\Debug\netcoreapp2.2\Factory3.RazorAssemblyInfo.cs
+C:\Users\Administrator\source\repos\Factory3\Factory3\obj\Debug\netcoreapp2.2\Factory3.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Factory3\Factory3\obj\Debug\netcoreapp2.2\Factory3.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Factory3\Factory3\obj\Debug\netcoreapp2.2\Factory3.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\source\repos\Factory3\Factory3\bin\Debug\netcoreapp2.2\Factory3.pdb
+C:\Users\Administrator\source\repos\Factory3\Factory3\obj\Debug\netcoreapp2.2\Factory3.dll
+C:\Users\Administrator\source\repos\Factory3\Factory3\obj\Debug\netcoreapp2.2\Factory3.pdb
